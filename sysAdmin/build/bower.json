@@ -1,0 +1,55 @@
+{
+  "name": "sysAdmin",
+  "version": "0.0.1",
+  "description": "Administração de Sistemas",
+  "main": "boot.js",
+  "keywords": [
+    "Depesas"
+  ],
+  "authors": [
+    "Alexander"
+  ],
+  "license": "MIT",
+  "homepage": "lecoleco.desenv",
+  "private": true,
+  "ignore": [
+    "**/*.txt",
+    ".jshintrc",
+    "bower_components"
+  ],
+  "dependencies": {
+    "headjs-notify": "0.9.7",
+    "requirejs": "~2.1.8",
+    "requirejs-text": "2.0.10",
+    "underscore": "~1.5.1",
+    "angular": "~1.3.8",
+    "angular-cookies": "~1.3.8",
+    "angular-loader": "~1.3.8",
+    "angular-resource": "~1.3.8",
+    "angular-touch": "~1.3.8",
+    "angular-sanitize": "~1.3.8",
+    "angular-ui-router": "~0.2.13",
+    "angular-ui-utils": "~0.1.1",
+    "angular-mocks": "~1.3.8",
+    "angular-specs": "~0.0.1",
+    "angular-scenario": "~1.3.8",
+    "angular-animate": "~1.3.8",
+    "angular-route": "~1.3.8",
+    "angular-i18n": "~1.3.8",
+    "angular-bootstrap": "~0.12.0",
+    "bootstrap": "~3.3.1",
+    "bootstrap-daterangepicker": "~1.3.17",
+    "bootstrap-datepicker": "~1.3.1",
+    "jquery": ">=2.1.1",
+    "jquery-ui": "~1.10.4",
+    "jquery-icheck": "1.0.2",
+    "metisMenu": ">=1",
+    "slimscroll": ">=1",
+    "fontawesome": "~4.2.0",
+    "animate.css": "latest",
+    "pace": "~1.0.2"
+  },
+  "resolutions": {
+    "angular": "~1.3.8"
+  }
+}
